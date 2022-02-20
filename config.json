@@ -1,0 +1,9 @@
+{
+	"ip":"Albert54321.aternos.me",
+	"port": 40855,
+	"name": "Moderator_ALbert_#BOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
